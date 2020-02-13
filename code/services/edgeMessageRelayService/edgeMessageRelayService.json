@@ -1,7 +1,7 @@
 {
-    "auto_balance": false,
-    "auto_restart": false,
-    "concurrency": 0,
+    "auto_balance": true,
+    "auto_restart": true,
+    "concurrency": 1,
     "dependencies": "log,edgeMessageRelay,clearblade",
     "execution_timeout": -1,
     "logging_enabled": true,

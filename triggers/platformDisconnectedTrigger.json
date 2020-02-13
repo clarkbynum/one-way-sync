@@ -1,0 +1,11 @@
+{
+    "event_definition": {
+        "def_keys": null,
+        "def_module": "StartConnectDisconnect",
+        "def_name": "PlatformDisconnectedOnEdge",
+        "visibility": true
+    },
+    "key_value_pairs": {},
+    "name": "platformDisconnectedTrigger",
+    "service_name": "edgeDisconnectedServ"
+}

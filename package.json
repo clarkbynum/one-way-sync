@@ -49,7 +49,7 @@
     "webpack-cli": "^3.3.0"
   },
   "dependencies": {
-    "@clearblade/one-way-sync": "^1.1.2"
+    "@clearblade/one-way-sync": "^1.1.3"
   },
   "babel": {},
   "jest": {

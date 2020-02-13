@@ -1,0 +1,11 @@
+{
+    "auto_balance": false,
+    "auto_restart": false,
+    "concurrency": 0,
+    "dependencies": "log,edgeDisconnected,clearblade",
+    "execution_timeout": 60,
+    "logging_enabled": false,
+    "name": "edgeDisconnectedServ",
+    "params": [],
+    "run_user": ""
+}

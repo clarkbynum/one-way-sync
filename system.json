@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "dev.clearblade.com:1883",
+    "name": "OneWaySync",
+    "platform_url": "https://dev.clearblade.com",
+    "system_key": "acf3a4e40bd2908bccca84f49557",
+    "system_secret": "ACF3A4E40BD082AFFAAA93C5DBE101"
+}

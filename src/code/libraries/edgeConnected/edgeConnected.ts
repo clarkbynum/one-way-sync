@@ -1,15 +1,4 @@
-/**
- * Type: Module
- * Description: A library that contains a function which, when called, returns an object with a public API.
- */
-function edgeConnected(){
-    function function1() {}
-    function function2() {}
-    function function3() {}
+import edgeConnected from "@clearblade/one-way-sync/edge/edge-connected";
 
-    return {
-        function1,
-        function2,
-        function3
-    }
-}
+// @ts-ignore
+global.edgeConnected = edgeConnected;
